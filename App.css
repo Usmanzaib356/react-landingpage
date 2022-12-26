@@ -1,0 +1,29 @@
+
+
+#btn{
+  color: white;
+  font-size: 28px;
+  color:rgb(37,80,170);
+  font-family: 'Times New Roman', Times, serif;
+}
+
+
+.prd{
+  text-align: center;
+  margin-top: 10px;
+}
+#cardsize{
+  width:18rem;
+  margin-left: 30px;
+    }
+
+.main-card{
+  display: flex;
+  margin-top: 30px;
+  margin-left: 20px;
+}
+
+
+.ftr{
+  margin-top: 20px;
+}
